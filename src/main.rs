@@ -1,3 +1,3 @@
-mod recite;
+mod nth_prime;
 
 fn main() {}
