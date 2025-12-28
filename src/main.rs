@@ -1,3 +1,3 @@
-mod nth_prime;
+mod binary_search;
 
 fn main() {}
